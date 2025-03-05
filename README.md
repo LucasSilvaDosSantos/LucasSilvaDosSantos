@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá, sou o Lucas e seja bem-vindo!</h1>
-  <p>Sou desenvolvedor backend, com a curiosidade e vontade de sempre aprender coisas novas e aprimorar as que já conheço. Programo com ênfase em melhores práticas, incluído testes unitários e seguindo as recomendações da tecnologia em questão.</p>
+  <p>Sou desenvolvedor backend, com a curiosidade e vontade de sempre aprender coisas novas e aprimorar as que já conheço. Programo com ênfase em melhores práticas, incluído testes unitários e seguindo as recomendações da tecnologia utilizada.</p>
   
   <div>
     <h3>Contatos:<h3>
